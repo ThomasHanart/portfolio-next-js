@@ -20,3 +20,9 @@ Next.js s'intègre parfaitement à l'écosystème React plus large. Les dévelop
 La réalisation de mon site web portfolio en Next.js a été découpée en composants selon les parties en lesquelles j'ai décidé de découper le site : l'accueil servant de courte présentation, le à propos parlant un peu plus de moi, mes projets, mes compétences, mon parcours et un moyen de me contacter. Le site est très compact, tout son contenu tenant sur une page et sa présentation étant fluide et condensée grâce à Tailwind.
 
 Les informations affichées dans la barre de menu, mes compétences, mon parcours et mes projets sont stockées dans le fichier data.ts du composant lib, et les fichiers tels que mon CV, mon image de profil et les images utilisées pour mes projets sont stockés directement dans le composant public.
+
+
+
+# Lien d'accès au Portfolio déployé sur Vercel
+
+https://portfolio-next-js-puce.vercel.app/
